@@ -1,0 +1,17 @@
+[
+  {
+    "modulename": "allex_leveldbconfigservice",
+    "instancename": "Config",
+    "propertyhash": {
+      "path": ["dbs", "config.db"],
+      "fields": ["multiplier"]
+    }
+  },
+  {
+    "modulename": "luka__twoservicecloud_multiplierservice",
+    "instancename": "Multiplier",
+    "propertyhash": {
+      "configsinkname": "Config"
+    }
+  }
+]

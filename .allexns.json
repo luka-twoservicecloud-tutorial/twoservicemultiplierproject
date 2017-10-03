@@ -1,0 +1,7 @@
+[
+{"username": "allex", "namespace": null, "group": "services", "type": "npm", "user": "git", "server": "github.com", "repogroup": "allex-services"},
+{"username": "allex", "namespace": null, "group": "libs", "type": "npm", "user": "git", "server": "github.com", "repogroup": "allex-libs"},
+{"username": "allex", "namespace": null, "group": "storages", "type": "npm", "user": "git", "server": "github.com", "repogroup": "allex-storages"},
+{"username": "allex", "namespace": null, "group": "parsers", "type": "npm", "user": "git", "server": "github.com", "repogroup": "allex-parsers"},
+{"username": "luka", "namespace": "twoservicecloud", "group": "services", "type": "git", "user": "git", "server": "github.com", "repogroup": "luka-twoservicecloud-tutorial"}
+]
